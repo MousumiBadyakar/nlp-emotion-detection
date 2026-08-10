@@ -4,7 +4,7 @@ An NLP-based machine learning project that predicts emotions from text using TF-
 
 ### 🚀 Live Demo
 
-[**Try the App →**](https://nlp-emotion-detection-np8jfar6cvjytvb3muykpy.streamlit.app/)
+https://nlp-emotion-detection-np8jfar6cvjytvb3muykpy.streamlit.app/
 
 ## 🎭 Emotions
 
