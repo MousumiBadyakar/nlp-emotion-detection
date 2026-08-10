@@ -1,27 +1,12 @@
 # 💭 NLP-Based Emotion Detection
 
-A machine learning project that uses Natural Language Processing (NLP) to detect the emotion expressed in a given text.
+An NLP-based machine learning project that predicts emotions from text using TF-IDF and Linear SVM.
 
-The application allows users to enter a sentence and predicts one of six emotions using a trained Linear Support Vector Machine (SVM) model.
+### 🚀 Live Demo
 
----
+[**Try the App →**](https://nlp-emotion-detection-np8jfar6cvjytvb3muykpy.streamlit.app/)
 
-## ✨ Features
-
-- Emotion detection from text
-- NLP-based text preprocessing
-- TF-IDF feature extraction
-- Unigram and bigram features
-- Linear SVM classification
-- Six emotion categories
-- Interactive Streamlit web application
-- Approximately 90.19% test accuracy
-
----
-
-## 🎭 Emotion Categories
-
-The model predicts one of the following emotions:
+## 🎭 Emotions
 
 - 😢 Sadness
 - 😠 Anger
@@ -29,3 +14,31 @@ The model predicts one of the following emotions:
 - 😲 Surprise
 - 😨 Fear
 - 😊 Joy
+
+## 🧠 Model
+
+- **Feature Extraction:** TF-IDF
+- **Features:** Unigrams + Bigrams
+- **Classifier:** Linear SVM
+- **Accuracy:** **90.19%**
+
+## 🛠️ Tech Stack
+
+Python • Scikit-learn • NLTK • Pandas • NumPy • Streamlit • Joblib
+
+## 📁 Project Structure
+
+```text
+nlp-emotion-detection/
+├── app.py
+├── emotion_model.pkl
+├── tfidf_vectorizer.pkl
+├── NLP-Project.ipynb
+├── train.txt
+├── requirements.txt
+└── .gitignore
+
+
+## 👩‍💻 Author
+
+**Mousumi Badyakar**
