@@ -38,7 +38,6 @@ nlp-emotion-detection/
 ├── requirements.txt
 └── .gitignore
 
-
 ## 👩‍💻 Author
 
 **Mousumi Badyakar**
