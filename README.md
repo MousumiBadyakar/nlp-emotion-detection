@@ -47,3 +47,7 @@ nlp-emotion-detection/
 ├── train.txt
 ├── requirements.txt
 └── .gitignore
+```
+
+## 👩‍💻 Author
+Mousumi Badyakar
